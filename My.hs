@@ -3,10 +3,10 @@
 -- Hello
 --
 --
-
+module My where
 
 mySucc :: Int -> Int
-mySucc x = x + 1
+mySucc = (+1)
 
 myIsNeg :: Int -> Bool
 myIsNeg nbr
@@ -54,6 +54,7 @@ myTail (_:xs) = xs
 myLength :: [a] -> Int
 myLength [] = 0
 myLength (_:xs) = 1 + myLength xs
+-- myLength xs = sum[1 | _ <- xs]
 
 myNth :: [a] -> Int -> a
 myNth a i
@@ -105,3 +106,38 @@ myUnzip :: [(a, b)] -> ([a], [b])
 myUnzip [] = ([], [])
 myUnzip ((a, b):xs) = (a:a', b:b')
   where (a', b') = myUnzip xs
+
+myMap :: (a -> b) -> [a] -> [b]
+myMap _ [] = []
+myMap f (x:xs) = f x:myMap f xs
+
+myFilter :: (a -> Bool) -> [a] -> [a]
+myFilter _ [] = []
+myFilter f (x:xs)
+  | f x = x:rest
+  | otherwise = rest
+  where rest = myFilter f xs
+
+myFoldl :: (b -> a -> b) -> b -> [a] -> b
+myFoldl _ b [] = b
+myFoldl f b (x:xs) = myFoldl f (f b x) xs
+
+myFoldr :: (b -> a -> b) -> b -> [a] -> b
+myFoldr f b xs = myFoldl f b $ myReverse xs
+
+mySpan :: (a -> Bool) -> [a] -> ([a], [a])
+mySpan _ [] = ([], [])
+mySpan f list@(x:xs)
+  | f x = (x:a, a')
+  | otherwise = ([], list)
+  where (a, a') = mySpan f xs
+
+myQuickSort :: (a -> a -> Bool) -> [a] -> [a]
+myQuickSort _ [] = []
+myQuickSort f (x:xs) = myAppend endL $ myAppend [x] endR
+  where
+    onRight = [ l | l <- xs, f x l]
+    onLeft = [ l | l <- xs, not(f x l)]
+    endR = myQuickSort f onRight
+    endL = myQuickSort f onLeft
+    
