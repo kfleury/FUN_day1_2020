@@ -1,7 +1,8 @@
 --
---
--- Hello
---
+-- EPITECH PROJECT, 2020
+-- FUN_day1_2020
+-- File description:
+-- My.hs
 --
 module My where
 
@@ -122,8 +123,9 @@ myFoldl :: (b -> a -> b) -> b -> [a] -> b
 myFoldl _ b [] = b
 myFoldl f b (x:xs) = myFoldl f (f b x) xs
 
-myFoldr :: (b -> a -> b) -> b -> [a] -> b
-myFoldr f b xs = myFoldl f b $ myReverse xs
+myFoldr :: (a -> b -> b) -> b -> [a] -> b
+myFoldr _ b [] = b
+myFoldr f b xs = myFoldr f (f (myLast xs) b) $ myInit xs
 
 mySpan :: (a -> Bool) -> [a] -> ([a], [a])
 mySpan _ [] = ([], [])
@@ -140,4 +142,3 @@ myQuickSort f (x:xs) = myAppend endL $ myAppend [x] endR
     onLeft = [ l | l <- xs, not(f x l)]
     endR = myQuickSort f onRight
     endL = myQuickSort f onLeft
-    

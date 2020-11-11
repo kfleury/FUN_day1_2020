@@ -9,7 +9,42 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbd0ae81-23f0-4254-b239-1d320264f221" name="Default Changelist" comment="" />
+    <list default="true" id="fbd0ae81-23f0-4254-b239-1d320264f221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FUN-day12020.cabal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Setup.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/build/FUN-day12020/FUN-day12020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/build/FUN-day12020/FUN-day12020-tmp/Main.hi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/build/FUN-day12020/FUN-day12020-tmp/Main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/build/FUN-day12020/autogen/Paths_FUN_day12020.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/build/FUN-day12020/autogen/cabal_macros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/cache/build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/cache/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/cache/registration" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/package.conf.inplace/package.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/package.conf.inplace/package.cache.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/setup-config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/compiler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/elaborated-plan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/improved-plan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/plan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/solver-plan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/source-hashes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/up-to-date" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/packagedb/ghc-8.8.3/package.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist-newstyle/packagedb/ghc-8.8.3/package.cache.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/UnitTestMy.hi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/UnitTestMy.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit_tests/UnitTestMy.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FUN_day1_2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FUN_day1_2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My.hs" beforeDir="false" afterPath="$PROJECT_DIR$/My.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/UnitTestMy.hs" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,16 +57,41 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1k48bNaYJq18FGqsOLHmBk6e15X" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/fr_FR.dic" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,16 +102,42 @@
       <option name="presentableId" value="Default" />
       <updated>1604948573922</updated>
       <workItem from="1604948575004" duration="208000" />
+      <workItem from="1605055261324" duration="26000" />
+      <workItem from="1605055298960" duration="77000" />
+      <workItem from="1605055390308" duration="413000" />
+      <workItem from="1605055819139" duration="1677000" />
+      <workItem from="1605058707218" duration="121000" />
+      <workItem from="1605112568666" duration="13876000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="158" key="SettingsEditor" timestamp="1604948769782">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="731" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605057028577">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="731" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1605057028577" />
+    <state x="452" y="185" width="992" height="737" key="SettingsEditor" timestamp="1605057035339">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="452" y="158" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1604948769782" />
+    <state x="452" y="185" width="992" height="737" key="SettingsEditor/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1605057035339" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1605125852479">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605125852479" />
+    <state x="2544" y="245" key="run.anything.popup" timestamp="1605131026846">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="245" key="run.anything.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605131026846" />
+    <state x="2543" y="239" key="search.everywhere.popup" timestamp="1605127569473">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="239" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605127569473" />
   </component>
 </project>
