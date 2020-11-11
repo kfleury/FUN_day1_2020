@@ -9,42 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbd0ae81-23f0-4254-b239-1d320264f221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FUN-day12020.cabal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.hs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Setup.hs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/build/FUN-day12020/FUN-day12020" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/build/FUN-day12020/FUN-day12020-tmp/Main.hi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/build/FUN-day12020/FUN-day12020-tmp/Main.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/build/FUN-day12020/autogen/Paths_FUN_day12020.hs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/build/FUN-day12020/autogen/cabal_macros.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/cache/build" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/cache/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/cache/registration" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/package.conf.inplace/package.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/package.conf.inplace/package.cache.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-linux/ghc-8.8.3/FUN-day12020-0.1.0.0/x/FUN-day12020/setup-config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/compiler" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/elaborated-plan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/improved-plan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/plan.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/solver-plan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/source-hashes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/cache/up-to-date" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/packagedb/ghc-8.8.3/package.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist-newstyle/packagedb/ghc-8.8.3/package.cache.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_tests/UnitTestMy.hi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_tests/UnitTestMy.hs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit_tests/UnitTestMy.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FUN_day1_2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FUN_day1_2020.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My.hs" beforeDir="false" afterPath="$PROJECT_DIR$/My.hs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/UnitTestMy.hs" beforeDir="false" />
-    </list>
+    <list default="true" id="fbd0ae81-23f0-4254-b239-1d320264f221" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +72,7 @@
       <workItem from="1605055390308" duration="413000" />
       <workItem from="1605055819139" duration="1677000" />
       <workItem from="1605058707218" duration="121000" />
-      <workItem from="1605112568666" duration="13876000" />
+      <workItem from="1605112568666" duration="14194000" />
     </task>
     <servers />
   </component>
