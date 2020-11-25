@@ -13,7 +13,7 @@ RM		=	-rm -f
 ## Sources ############################################
 MAIN		=	My.hs
 
-TEST_DIR	=	unit_tests/
+TEST_DIR	=	test/
 
 TEST_MAIN	=	$(addsuffix .hs, Main)
 
